@@ -1,0 +1,22 @@
+body{
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+}
+nav{
+  background-color: #88e813;
+}
+.nav-menu-link{
+  font-family: 'Akaya Kanadaka', cursive;
+  font-size: 1.5em;
+  color: #e81313;
+}
+.article-text{
+  font-family: 'Reggae One', cursive;
+  font-size: 1.4em;
+}
+.back-link{
+  font-size: 1.6em;
+  color: #e8c413;
+}
